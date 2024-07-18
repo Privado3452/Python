@@ -1,0 +1,2 @@
+variable = "Duber"
+print(variable)
